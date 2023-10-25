@@ -1,0 +1,3 @@
+[submodule "C-StochasticVolatility"]
+	path = C-StochasticVolatility
+	url = https://github.com/VegaInstitute/C-StochasticVolatility.git
